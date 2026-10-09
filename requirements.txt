@@ -1,0 +1,4 @@
+# Unpinned on purpose: pin exact versions with `pip freeze` after your first successful run.
+# Tested against anthropic 1.12.1 and ollama 0.6.3.
+ollama
+anthropic
